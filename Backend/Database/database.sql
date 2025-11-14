@@ -1,0 +1,2 @@
+-- Database Schema for Organization Management App
+-- Tables will be added soon: admin, employees, departments
